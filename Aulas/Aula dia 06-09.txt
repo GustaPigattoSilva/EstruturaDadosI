@@ -1,0 +1,25 @@
+-Aula dia 06-09-
+
+----------------------------------------------------------------
+
+FILA = FIFO = First in, First out
+PILHA = FILO = First in, Last out
+TAD = Tipo Abstrato de Dados
+POP = Retirar
+PUSH = Colocar
+
+----------------------------------------------------------------
+
+O nome da Classe deve ter o mesmo nome do arquivo
+A Classe é TAD
+
+----------------------------------------------------------------
+
+!= é negação
+== é igual
+< é menor que
+> é maior que
+
+----------------------------------------------------------------
+
+Atividade = Criar um projeto, e montar uma pilha de strings pra guardar nomes
