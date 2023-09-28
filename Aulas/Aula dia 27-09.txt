@@ -1,0 +1,26 @@
+-Aula dia 27/09-
+
+----------------------------------------------------------------- 
+
+Caso Base = Processo que encerra a condição
+Caso Recursivo = Processo que chama a condição
+
+----------------------------------------------------------------- 
+
+léxico = palavra errada
+sintaxico = chaves, ponto, etc
+semantico = atribuição de valor errado
+
+----------------------------------------------------------------- 
+	
+				100 (Root)
+			       /    |     \
+			      /	    |      \
+		         (f1)50 (f2)5   (f3)0
+			    /       |        \
+			   /        |         \
+		     (n1)55     (n2)200
+
+----------------------------------------------------------------- 
+
+Atividade: Ler e fazer página 150 até 152
